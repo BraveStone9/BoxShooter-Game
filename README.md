@@ -1,5 +1,5 @@
 # BoxShooter-Game
-A basic third person two level box shooting game with simple controls and features
+A basic fist person two level box shooting game with simple controls and features
 <br><br>
 # ScreenShots
 <p align="center">
